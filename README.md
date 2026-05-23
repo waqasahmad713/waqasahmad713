@@ -1,6 +1,33 @@
 # 💫 About Me:
-Waqas Ahmad<br>AI Solutions Developer<br>Yar Hussain, Pakistan | +92 313 5565892<br>waqaskhanwaqas713@gmail.com | github.com/waqasahmad713<br>PROFILE<br>AI and Machine Learning enthusiast with strong foundation in Deep Learning and Computer Vision. Currently<br>AI Intern at NCAI Lab Peshawar, skilled in:<br>• Implementing ML/DL pipelines with TensorFlow, PyTorch, and advanced AI frameworks<br>• Developing real-world AI solutions (autonomous systems, predictive models, object detection)<br>• Leading technical teams and coordinating innovation initiatives<br>TECHNICAL COMPETENCIES<br>• Machine Learning & Deep Learning: CNNs, RNNs, LSTM, YOLOv8/v11, Transfer Learning<br>• Programming: Python (Pandas, NumPy), C/C++, HTML, CSS, JavaScript, SQL<br>• Tools: TensorFlow, PyTorch, OpenCV, Roboflow, Flask, Git, Jupyter, Colab<br>• Soft Skills: Team Leadership, Project Coordination, Technical Communication<br>EDUCATION<br>B.Sc Artificial Intelligence<br>Abdul Wali Khan University Mardan<br>• Focus: Deep Learning, Computer Vision, Neural Networks<br>• Key Areas: AI System Design, Data Science, Machine Learning<br>• Final Year Project: AI-Based Self-Driving Car Prototype<br>2021–2025<br>PROJECTS<br>AI-Based Self-Driving Car Prototype<br>Python, OpenCV, TensorFlow, CNN<br>• Developing autonomous driving system with lane detection and object recognition<br>• Implementing real-time decision-making using CNN-based deep learning models<br>Weather Prediction App & Nutrient Detection System<br>Python, LSTM, YOLOv11, Flask<br>• Built LSTM-based weather forecasting app with Flask backend and SQLite3<br>• Developed YOLOv11 model for banana plant nutrient deficiency detection (9 classes)<br>Final Year Project<br>PROFESSIONAL EXPERIENCE<br>AI Intern<br>NCAI Lab Peshawar<br>• Developing AI solutions for real-world applications and research projects<br>Python Intern – Codsoft<br>June 2024 – Present<br>Aug 2023 – Sep 2023<br>PROFESSIONAL DEVELOPMENT<br>CS50’s Introduction to AI with Python<br>Advanced AI concepts, neural networks, machine learning algorithms<br>Programming for Everybody<br>Python fundamentals and data structures<br>Harvard CS50<br>Coursera<br>LEADERSHIP<br>Coordinator, Technology & Innovation Society (TIS)<br>- Leading CS society initiatives and organizing tech events for 200+ members<br>- Coordinating workshops on AI/ML and emerging technologies<br>Co-Founder, University Help Desk<br>- Established cross-departmental support system serving 600+ students annually<br>- Implemented digital solutions for efficient student assistance<br>ADDITIONAL<br>• Current Work: Pothole Detection System using YOLOv8 for smart infrastructure<br>• Technical Interests: Computer Vision, Autonomous Systems, Real-time AI
+Waqas Ahmad<br>
+AI Solutions Developer<br>
+Yar Hussain, Pakistan | +92 313 5565892<br>
+waqaskhanwaqas713@gmail.com | github.com/waqasahmad713<br><br>
 
+<b>PROFILE</b><br>
+AI and Machine Learning enthusiast with a strong foundation in Deep Learning and Computer Vision. Currently working as an AI Developer at CAIET, with experience in:<br>
+• Implementing ML/DL pipelines using TensorFlow, PyTorch, and advanced AI frameworks<br>
+• Developing real-world AI solutions, including autonomous systems, predictive models, and object detection systems<br>
+• Leading technical teams and coordinating innovation-driven initiatives<br><br>
+<b>EDUCATION</b><br>
+B.Sc. in Artificial Intelligence<br>
+Abdul Wali Khan University Mardan (2021–2025)<br>
+• Focus Areas: Deep Learning, Computer Vision, Neural Networks<br>
+• Key Areas: AI System Design, Data Science, Machine Learning<br>
+• Final Year Project: AI-Based Self-Driving Car Prototype<br><br>
+<b>AI Developer — CAIET</b><br>
+Present<br>
+• Developing AI-powered applications and intelligent systems for real-world solutions<br><br>
+
+<b>LEADERSHIP</b><br>
+
+<b>Coordinator, Technology & Innovation Society (TIS)</b><br>
+• Led CS society initiatives and organized tech events for 200+ members<br>
+• Coordinated workshops on AI/ML and emerging technologies<br><br>
+
+<b>Co-Founder, University Help Desk</b><br>
+• Established a cross-departmental support system serving 600+ students annually<br>
+• Implemented digital solutions for efficient student assistance<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waqaskhan713) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@waqas_khan713) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waqaskhanwaqas713@gmail.com) 
