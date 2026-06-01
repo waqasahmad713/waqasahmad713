@@ -2,7 +2,7 @@
 Waqas Ahmad<br>
 AI Solutions Developer<br>
 Yar Hussain, Pakistan | +92 313 5565892<br>
-waqaskhanwaqas713@gmail.com | github.com/waqasahmad713<br><br>
+waqaskhanwaqas713@gmail.com | https://waqasahmad713.github.io/Portfolio/<br><br>
 
 <b>PROFILE</b><br>
 AI and Machine Learning enthusiast with a strong foundation in Deep Learning and Computer Vision. Currently working as an AI Developer at CAIET, with experience in:<br>
