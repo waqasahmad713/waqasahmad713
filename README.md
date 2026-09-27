@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,40:4f46e5,100:c026d3&height=220&section=header&text=Waqas%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Engineering&descAlignY=56&descAlign=50&descSize=18" width="100%" alt="Waqas Ahmad" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,40:4f46e5,100:c026d3&height=220&section=header&text=Waqas%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20ML%20%C2%B7%20Data&descAlignY=56&descAlign=50&descSize=18" width="100%" alt="Waqas Ahmad" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=600&color=22D3EE&center=true&vCenter=true&width=760&lines=Computer+Vision;Machine+Learning;Data+Engineering;Detection+%C2%B7+Tracking+%C2%B7+Forecasting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=600&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Developer;Computer+Vision;Machine+Learning;Data+Engineering)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/waqasahmad713/waqasahmad713/main/assets/focus.gif" width="92%" alt="Animated banner cycling through computer vision, machine learning, and data engineering" />
 
@@ -18,7 +18,7 @@
 
 <br>
 
-I build intelligent systems end to end: prepare the data, train the model, and put it in a product people can use. That covers computer vision, machine learning, and the data engineering around both.
+I build products end to end: the interface, the API, the data, and the model. That is full-stack web development plus computer vision, machine learning, and data engineering.
 
 <table>
 <tr>
@@ -46,13 +46,29 @@ Cleaning, feature engineering, and storage. CSV pipelines, SQL databases, and da
 </td>
 <td align="center" width="33%">
 
-### Also building
+### Computer Vision
 
-<img src="https://skillicons.dev/icons?i=opencv,flask,fastapi,react,nextjs&perline=5" alt="Product stack" />
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,python,linux&perline=4" alt="Computer vision stack" />
 
 <br>
 
-Computer vision products and the apps around them: detection, tracking, APIs, and web interfaces.
+Detection and tracking with YOLOv8, OpenCV, and MediaPipe, then shown in a real interface.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+
+### Full-Stack Web
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,fastapi,flask,django,postgres&perline=8" alt="Full-stack web stack" />
+
+<br>
+
+Interfaces in Next.js and React, APIs in FastAPI, Flask, and Django, and PostgreSQL or MySQL behind them. From a storefront with cart and checkout to a university community app.
 
 </td>
 </tr>
@@ -62,7 +78,7 @@ Computer vision products and the apps around them: detection, tracking, APIs, an
 
 ### Toolbox
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,numpy,postgres,mysql,flask,fastapi,django,react,nextjs,git,linux,aws,gcp&perline=9" alt="Full toolbox" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,fastapi,flask,django,python,pytorch,tensorflow,opencv,postgres,mysql,git,linux&perline=9" alt="Full toolbox" />
 
 </div>
 
@@ -101,7 +117,16 @@ Computer vision products and the apps around them: detection, tracking, APIs, an
 </tr>
 </table>
 
-[UniConnect](https://github.com/waqasahmad713/uniconnect) — university community product with Next.js, FastAPI, and PostgreSQL.
+**Full-stack**
+
+[![Rang](https://img.shields.io/badge/Next.js-Storefront-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/waqasahmad713/Rang-o-Riwaaj)
+[Rang-o-Riwaaj](https://github.com/waqasahmad713/Rang-o-Riwaaj) — catalog, cart, checkout, account, and admin
+
+[![Uni](https://img.shields.io/badge/Next.js_+_FastAPI-Community-0ea5e9?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/waqasahmad713/uniconnect)
+[UniConnect](https://github.com/waqasahmad713/uniconnect) — university community app with PostgreSQL
+
+[![Port](https://img.shields.io/badge/JavaScript-Portfolio-f7df1e?style=flat-square&logo=javascript&logoColor=black)](https://github.com/waqasahmad713/Portfolio)
+[Portfolio](https://github.com/waqasahmad713/Portfolio) — personal site for the AI and web work
 
 ## Now
 
