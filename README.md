@@ -2,9 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,40:4f46e5,100:c026d3&height=220&section=header&text=Waqas%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Engineering&descAlignY=56&descAlign=50&descSize=18" width="100%" alt="Waqas Ahmad" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Computer+Vision+%26+Deep+Learning;Machine+Learning+that+ships;Data+pipelines+for+real+models;Detection%2C+tracking%2C+and+forecasting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=600&color=22D3EE&center=true&vCenter=true&width=760&lines=Computer+Vision;Machine+Learning;Data+Engineering;Detection+%C2%B7+Tracking+%C2%B7+Forecasting)](https://git.io/typing-svg)
 
-<br>
+<img src="https://raw.githubusercontent.com/waqasahmad713/waqasahmad713/main/assets/focus.gif" width="92%" alt="Animated banner cycling through computer vision, machine learning, and data engineering" />
+
+<img src="https://raw.githubusercontent.com/waqasahmad713/waqasahmad713/main/assets/wave.gif" width="100%" alt="Animated wave" />
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://waqasahmad713.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waqaskhan713)
@@ -138,7 +141,14 @@ Computer vision products and the apps around them: detection, tracking, APIs, an
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,60:4f46e5,100:0891b2&height=110&section=footer" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waqasahmad713/waqasahmad713/main/assets/snake-dark.gif">
+  <img src="https://raw.githubusercontent.com/waqasahmad713/waqasahmad713/main/assets/snake-light.gif" width="100%" alt="Animated snake moving across the contribution graph" />
+</picture>
+
+<img src="https://raw.githubusercontent.com/waqasahmad713/waqasahmad713/main/assets/wave.gif" width="100%" alt="Animated wave" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,60:4f46e5,100:0891b2&height=110&section=footer&animation=twinkling" width="100%" alt="" />
 
 Yar Hussain, Pakistan · [waqaskhanwaqas713@gmail.com](mailto:waqaskhanwaqas713@gmail.com) · +92 313 5565892
 
