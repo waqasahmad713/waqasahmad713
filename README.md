@@ -130,7 +130,7 @@ Interfaces in Next.js and React, APIs in FastAPI, Flask, and Django, and Postgre
 
 ## Now
 
-**AI Developer at CAIET.** B.Sc. Artificial Intelligence, Abdul Wali Khan University Mardan (2021–2025). Final-year project: an AI self-driving car prototype.
+**Klarivo, Islamabad.** B.Sc. Artificial Intelligence, Abdul Wali Khan University Mardan (2021–2025). Final-year project: an AI self-driving car prototype.
 
 - Coordinator, Technology & Innovation Society — AI/ML workshops for 200+ members
 - Co-founder, University Help Desk — used by 600+ students a year
@@ -175,6 +175,6 @@ Interfaces in Next.js and React, APIs in FastAPI, Flask, and Django, and Postgre
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,60:4f46e5,100:0891b2&height=110&section=footer&animation=twinkling" width="100%" alt="" />
 
-Yar Hussain, Pakistan · [waqaskhanwaqas713@gmail.com](mailto:waqaskhanwaqas713@gmail.com) · +92 313 5565892
+Islamabad, Pakistan · [waqaskhanwaqas713@gmail.com](mailto:waqaskhanwaqas713@gmail.com) · [Portfolio](https://waqasahmad713.github.io/Portfolio/)
 
 </div>
