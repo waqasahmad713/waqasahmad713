@@ -1,86 +1,144 @@
 <div align="center">
 
-# Waqas Ahmad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,40:4f46e5,100:c026d3&height=220&section=header&text=Waqas%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Engineering&descAlignY=56&descAlign=50&descSize=18" width="100%" alt="Waqas Ahmad" />
 
-**AI Engineer** · Computer Vision · Applied Machine Learning
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Computer+Vision+%26+Deep+Learning;Machine+Learning+that+ships;Data+pipelines+for+real+models;Detection%2C+tracking%2C+and+forecasting)](https://git.io/typing-svg)
 
-I build perception systems and the software around them: detection, tracking, forecasting, and interfaces people can use.
+<br>
 
-[Portfolio](https://waqasahmad713.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/waqaskhan713) · [Email](mailto:waqaskhanwaqas713@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://waqasahmad713.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waqaskhan713)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqaskhanwaqas713@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqasahmad713)
 
 </div>
 
----
+<br>
 
-## Focus
+I build intelligent systems end to end: prepare the data, train the model, and put it in a product people can use. That covers computer vision, machine learning, and the data engineering around both.
 
-Computer vision and applied deep learning, taken through to a running product.
+<table>
+<tr>
+<td align="center" width="33%">
 
-- **Perception.** Real-time detection and tracking with YOLOv8, OpenCV, MediaPipe, and SORT.
-- **Learning.** Sequence models and classical ML in PyTorch, TensorFlow, and scikit-learn.
-- **Delivery.** Flask, FastAPI, and Streamlit services, plus Next.js products on top of those models.
+### Machine Learning
 
-AI Developer at **CAIET**. B.Sc. Artificial Intelligence, Abdul Wali Khan University Mardan (2021–2025). Final-year project: an AI self-driving car prototype.
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,keras,py&perline=5" alt="Machine learning stack" />
 
-## Selected work
+<br>
 
-| Project | What it is |
-| --- | --- |
-| [AI Surveillance](https://github.com/waqasahmad713/AI-Surveillance-System) | Real-time weapon detection with YOLOv8 |
-| [Vehicle Speed Estimation](https://github.com/waqasahmad713/vehicle-speed-estimation) | Detect, track, and estimate speed with YOLOv8 and SORT |
-| [Weather Forecast Dashboard](https://github.com/waqasahmad713/-Weather-Prediction-Dashboard-with-LSTM) | LSTM forecasts from uploaded weather data, served with Flask |
-| [Gesture Drawing](https://github.com/waqasahmad713/gesture-drawing) | Webcam drawing canvas driven by MediaPipe hand tracking |
-| [House Price Prediction](https://github.com/waqasahmad713/House-price-prediction) | Feature engineering and tree ensembles on California housing data |
-| [Movie Recommendations](https://github.com/waqasahmad713/netflix-ai-movie-recommendation) | Embedding similarity recommender built in Streamlit |
-| [UniConnect](https://github.com/waqasahmad713/uniconnect) | University community product: Next.js, FastAPI, and PostgreSQL |
+Supervised models, deep learning, and evaluation. House-price ensembles, LSTM forecasts, and embedding-based recommendations.
 
-## Stack
+</td>
+<td align="center" width="33%">
+
+### Data Engineering
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,postgres,mysql,sqlite&perline=5" alt="Data engineering stack" />
+
+<br>
+
+Cleaning, feature engineering, and storage. CSV pipelines, SQL databases, and datasets shaped so a model can train and serve.
+
+</td>
+<td align="center" width="33%">
+
+### Also building
+
+<img src="https://skillicons.dev/icons?i=opencv,flask,fastapi,react,nextjs&perline=5" alt="Product stack" />
+
+<br>
+
+Computer vision products and the apps around them: detection, tracking, APIs, and web interfaces.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+### Toolbox
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,numpy,postgres,mysql,flask,fastapi,django,react,nextjs,git,linux,aws,gcp&perline=9" alt="Full toolbox" />
 
 </div>
 
-## Background
+## Selected work
 
-- **AI Developer, CAIET** — AI applications and intelligent systems for real problems.
-- **Coordinator, Technology & Innovation Society** — AI/ML workshops and tech events for 200+ members.
-- **Co-founder, University Help Desk** — a support system used by 600+ students a year.
+<table>
+<tr>
+<td width="50%">
+
+**Vision**
+
+[![Surveillance](https://img.shields.io/badge/YOLOv8-Weapon_detection-c026d3?style=flat-square&logo=opencv&logoColor=white)](https://github.com/waqasahmad713/AI-Surveillance-System)
+[AI Surveillance](https://github.com/waqasahmad713/AI-Surveillance-System) — real-time weapon detection
+
+[![Speed](https://img.shields.io/badge/YOLOv8_+_SORT-Speed_estimation-4f46e5?style=flat-square&logo=opencv&logoColor=white)](https://github.com/waqasahmad713/vehicle-speed-estimation)
+[Vehicle Speed](https://github.com/waqasahmad713/vehicle-speed-estimation) — detect, track, and estimate speed
+
+[![Gesture](https://img.shields.io/badge/MediaPipe-Hand_tracking-0891b2?style=flat-square&logo=opencv&logoColor=white)](https://github.com/waqasahmad713/gesture-drawing)
+[Gesture Drawing](https://github.com/waqasahmad713/gesture-drawing) — webcam canvas from hand tracking
+
+</td>
+<td width="50%">
+
+**ML and data**
+
+[![LSTM](https://img.shields.io/badge/LSTM-Weather_forecast-0ea5e9?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/waqasahmad713/-Weather-Prediction-Dashboard-with-LSTM)
+[Weather Dashboard](https://github.com/waqasahmad713/-Weather-Prediction-Dashboard-with-LSTM) — LSTM forecasts from uploaded CSVs
+
+[![Housing](https://img.shields.io/badge/sklearn-House_prices-f59e0b?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/waqasahmad713/House-price-prediction)
+[House Prices](https://github.com/waqasahmad713/House-price-prediction) — features, gradient boosting, random forest
+
+[![Recs](https://img.shields.io/badge/Embeddings-Movie_recs-e11d48?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/waqasahmad713/netflix-ai-movie-recommendation)
+[Movie Recommendations](https://github.com/waqasahmad713/netflix-ai-movie-recommendation) — similarity search in Streamlit
+
+</td>
+</tr>
+</table>
+
+[UniConnect](https://github.com/waqasahmad713/uniconnect) — university community product with Next.js, FastAPI, and PostgreSQL.
+
+## Now
+
+**AI Developer at CAIET.** B.Sc. Artificial Intelligence, Abdul Wali Khan University Mardan (2021–2025). Final-year project: an AI self-driving car prototype.
+
+- Coordinator, Technology & Innovation Society — AI/ML workshops for 200+ members
+- Co-founder, University Help Desk — used by 600+ students a year
 
 ## GitHub
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=waqasahmad713&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=waqasahmad713&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=waqasahmad713&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=waqasahmad713&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasahmad713&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasahmad713&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasahmad713&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasahmad713&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=waqasahmad713&theme=tokyonight&hide_border=true">
+  <img height="170" src="https://streak-stats.demolab.com?user=waqasahmad713&theme=default&hide_border=true" alt="GitHub streak" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=waqasahmad713&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20graph">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=waqasahmad713&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Contribution graph" />
 </picture>
 
 </div>
 
----
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,60:4f46e5,100:0891b2&height=110&section=footer" width="100%" alt="" />
 
 Yar Hussain, Pakistan · [waqaskhanwaqas713@gmail.com](mailto:waqaskhanwaqas713@gmail.com) · +92 313 5565892
 
